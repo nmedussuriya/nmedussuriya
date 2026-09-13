@@ -121,24 +121,21 @@ A full-stack collaborative task management platform that enables users to organi
 </div>
 
 ---
-
-## 🟩 GitHub Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/6C63FF/nmedussuriya" alt="GitHub Contribution Calendar" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
+## 🤝 Contributions & Collaborations
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nmedussuriya&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://img.shields.io/badge/University%20Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Team%20Collaboration-00C9FF?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Full--Stack%20Development-111827?style=for-the-badge&logo=code&logoColor=white" />
 
 </div>
+
+- 🌐 Contributed to university club websites
+- 🤝 Collaborated on full-stack software projects
+- 💻 Developed features and fixed bugs
+- 🔧 Used Git and GitHub for team collaboration
+- 🚀 Participated in university technology initiatives
 
 ---
 
