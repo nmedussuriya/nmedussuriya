@@ -1,9 +1,9 @@
 <!-- PROFILE HEADER -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CAF0F8,50:ADE8F4,100:90E0EF&height=230&section=header&text=Nulara%20Edussuriya&fontSize=42&fontColor=12343B&fontAlignY=38&fontFamily=Montserrat&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC8DD,50:FFAFCC,100:BDE0FE&height=230&section=header&text=Nulara%20Edussuriya&fontSize=42&fontColor=5A4052&fontAlignY=38&fontFamily=Montserrat&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=3000&pause=1000&color=168AAD&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Enthusiast;Software+Engineering+Undergraduate;React+%7C+Node.js+%7C+MongoDB" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=3000&pause=1000&color=C06C84&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Enthusiast;Software+Engineering+Undergraduate;Creating+Useful+Digital+Solutions" />
 
 </div>
 
