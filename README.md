@@ -101,6 +101,7 @@ Currently, I'm focused on improving my full-stack development skills, working on
 <img src="https://img.shields.io/badge/Automated_Testing-14B8A6?style=for-the-badge"/>
 </p>
 
+---
 
 ## 🚀 Key Projects
 
