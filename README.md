@@ -13,32 +13,25 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Nulara+%F0%9F%91%8B;I+Build+%7C+I+Learn+%7C+I+Create;Full-Stack+Development+%F0%9F%92%BB;Artificial+Intelligence+%F0%9F%A4%96;Welcome+to+my+digital+space+%E2%9C%A8" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Nulara+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
+<br>
+
+<img src="https://img.shields.io/badge/💻_Building-Full--Stack_Apps-1D4ED8?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🤖_Exploring-AI-06B6D4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌱_Always-Learning-6C63FF?style=for-the-badge" />
 
 </div>
 
-### 🌐 A little about me
+<br>
 
-I'm a Software Engineering undergraduate who enjoys exploring the world of technology, building applications, and turning creative ideas into working software.
+I'm a Software Engineering undergraduate who enjoys turning ideas into real-world digital solutions. I love building web and mobile applications, exploring Artificial Intelligence, and learning how technology can solve meaningful problems.
 
-```text
-╭────────────────────────────────────╮
-│  NULARA.EXE                        │
-│                                    │
-│  > Full-Stack Developer             │
-│  > AI Enthusiast                    │
-│  > Problem Solver                   │
-│  > Lifelong Learner                 │
-│                                    │
-│  [ SYSTEM STATUS: BUILDING 🚀 ]    │
-╰────────────────────────────────────╯
-```
+Currently, I'm focused on improving my full-stack development skills, working on collaborative projects, and exploring new technologies.
 
 <div align="center">
 
-**Let's build something amazing.**
+**✨ Learn. Build. Collaborate. Repeat. ✨**
 
 </div>
 
