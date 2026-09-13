@@ -121,23 +121,13 @@ A full-stack collaborative task management platform that enables users to organi
 </div>
 
 ---
-## 🤝 Contributions & Collaborations
+## 🔥 Coding Streak
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/University%20Projects-6C63FF?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Team%20Collaboration-00C9FF?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Full--Stack%20Development-111827?style=for-the-badge&logo=code&logoColor=white" />
+<img src="https://streak-stats.demolab.com/?user=nmedussuriya&theme=transparent&hide_border=true&ring=6C63FF&fire=00C9FF&currStreakLabel=6C63FF" alt="GitHub Coding Streak" />
 
 </div>
-
-- 🌐 Contributed to university club websites
-- 🤝 Collaborated on full-stack software projects
-- 💻 Developed features and fixed bugs
-- 🔧 Used Git and GitHub for team collaboration
-- 🚀 Participated in university technology initiatives
-
----
 
 ## 🏆 GitHub Trophies
 
