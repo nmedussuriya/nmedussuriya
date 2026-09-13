@@ -9,7 +9,7 @@
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 <div align="center">
 
@@ -35,7 +35,7 @@ Currently, I'm focused on improving my full-stack development skills, working on
 ---
 
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 ### 💻 Programming Languages
 
@@ -103,7 +103,7 @@ Currently, I'm focused on improving my full-stack development skills, working on
 
 ---
 
-## 🚀 Key Projects
+# 🚀 Key Projects
 
 ### 🔹 Project Approval System (PAS)
 
@@ -135,7 +135,7 @@ Full-stack collaborative task management platform with authentication, task mana
 
 
 ---
-## 🔥 Coding Streak
+# 🔥 Coding Streak
 
 <div align="center">
 
@@ -145,7 +145,7 @@ Full-stack collaborative task management platform with authentication, task mana
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 <p align="left">
 
