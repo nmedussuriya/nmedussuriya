@@ -13,23 +13,35 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=%24+whoami;Nulara+Edussuriya;Software+Engineering+Undergraduate;%24+current_status;Learning+%7C+Building+%7C+Improving;%24+mission;Turn+ideas+into+real-world+solutions+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=800&lines=Hello+World!+I'm+Nulara+%F0%9F%91%8B;I+Build+%7C+I+Learn+%7C+I+Create;Full-Stack+Development+%F0%9F%92%BB;Artificial+Intelligence+%F0%9F%A4%96;Welcome+to+my+digital+space+%E2%9C%A8" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" />
 
 </div>
 
-```bash
-> Initializing developer profile...
-> Loading passion for technology...
-> Exploring AI and Full-Stack Development...
-> Building real-world applications...
-> Status: Always learning 🚀
+### 🌐 A little about me
+
+I'm a Software Engineering undergraduate who enjoys exploring the world of technology, building applications, and turning creative ideas into working software.
+
+```text
+╭────────────────────────────────────╮
+│  NULARA.EXE                        │
+│                                    │
+│  > Full-Stack Developer             │
+│  > AI Enthusiast                    │
+│  > Problem Solver                   │
+│  > Lifelong Learner                 │
+│                                    │
+│  [ SYSTEM STATUS: BUILDING 🚀 ]    │
+╰────────────────────────────────────╯
 ```
 
 <div align="center">
 
-💙 **Curious mind. Creative ideas. Clean code.**
+**Let's build something amazing.**
 
 </div>
+
 
 ---
 
