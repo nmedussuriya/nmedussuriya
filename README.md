@@ -3,6 +3,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,55:1D4ED8,100:06B6D4&height=300&section=header&text=Nulara%20Edussuriya&fontSize=68&fontColor=FFFFFF&fontAlignY=42&fontFamily=Montserrat&animation=fadeIn" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Nulara+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
+
+
 </div>
 
 ---
@@ -10,10 +13,6 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=24&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=700&lines=Hello%2C+I'm+Nulara+%F0%9F%91%8B;Software+Engineering+Undergraduate;Full-Stack+Developer+in+Progress+%F0%9F%92%BB;AI+Enthusiast+%F0%9F%A4%96;Building+Ideas+Into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
-
-<br>
 
 <img src="https://img.shields.io/badge/💻_Building-Full--Stack_Apps-1D4ED8?style=for-the-badge" />
 <img src="https://img.shields.io/badge/🤖_Exploring-AI-06B6D4?style=for-the-badge" />
