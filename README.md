@@ -114,9 +114,9 @@ A full-stack collaborative task management platform that enables users to organi
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api?username=nmedussuriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmedussuriya&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 
 </div>
 
@@ -126,7 +126,7 @@ A full-stack collaborative task management platform that enables users to organi
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nmedussuriya&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -136,7 +136,7 @@ A full-stack collaborative task management platform that enables users to organi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nmedussuriya&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
@@ -146,7 +146,7 @@ A full-stack collaborative task management platform that enables users to organi
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
+<img src="https://github-profile-trophy.vercel.app/?username=nmedussuriya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
 
 </div>
 
@@ -156,7 +156,7 @@ A full-stack collaborative task management platform that enables users to organi
 
 <p align="left">
 
-<a href="https://www.linkedin.com/innulara-edussuriya-5103b3292/">
+<a href="https://www.linkedin.com/in/nulara-edussuriya-5103b3292/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -169,7 +169,6 @@ A full-stack collaborative task management platform that enables users to organi
 </a>
 
 </p>
-
 ---
 
 <div align="center">
