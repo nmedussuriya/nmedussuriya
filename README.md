@@ -11,12 +11,25 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Software Engineering undergraduate
-- 💻 Interested in Full Stack Development
-- 🌱 Currently learning React, Node.js, Express.js and MongoDB
-- 🚀 Building real-world web applications
-- 🤝 Interested in open-source and collaborative projects
-- ⚡ I enjoy solving problems and learning new technologies
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=%24+whoami;Nulara+Edussuriya;Software+Engineering+Undergraduate;%24+current_status;Learning+%7C+Building+%7C+Improving;%24+mission;Turn+ideas+into+real-world+solutions+%F0%9F%9A%80" />
+
+</div>
+
+```bash
+> Initializing developer profile...
+> Loading passion for technology...
+> Exploring AI and Full-Stack Development...
+> Building real-world applications...
+> Status: Always learning 🚀
+```
+
+<div align="center">
+
+💙 **Curious mind. Creative ideas. Clean code.**
+
+</div>
 
 ---
 
@@ -118,20 +131,13 @@ A full-stack collaborative task management platform that enables users to organi
     alt="Top Languages"
   />
 </div>
+
 ---
 ## 🔥 Coding Streak
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com/?user=nmedussuriya&theme=transparent&hide_border=true&ring=6C63FF&fire=00C9FF&currStreakLabel=6C63FF" alt="GitHub Coding Streak" />
-
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nmedussuriya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5" />
 
 </div>
 
