@@ -119,6 +119,14 @@ A full-stack collaborative task management platform that enables users to organi
 
 </div>
 
+## 📊 GitHub Language Statistics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nmedussuriya&theme=github_dark" width="450" />
+
+</div>
+
 ---
 ## 🔥 Coding Streak
 
