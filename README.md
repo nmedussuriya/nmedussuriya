@@ -2,12 +2,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=220&section=header&text=Hi%20There!%20I'm%20Nulara%20Edussuriya%20👋&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:4F46E5&height=230&section=header&text=Nulara%20Edussuriya&fontSize=42&fontColor=FFFFFF&fontAlignY=38&fontFamily=JetBrains%20Mono&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Full+Stack+Developer;React+%7C+Node.js+%7C+MongoDB;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=A5B4FC&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Enthusiast;Software+Engineering+Undergraduate;Building+Real-World+Applications" />
 
 </div>
-
 ---
 
 ## 👨‍💻 About Me
