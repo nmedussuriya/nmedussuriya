@@ -64,64 +64,33 @@ Currently, I'm focused on improving my full-stack development skills, working on
 
 ## 🚀 Key Projects
 
-### 🔹 Project Approval System (PAS) — Web Application
+### 🔹 Project Approval System (PAS)
 
-A web-based academic project allocation system designed to provide a fair and unbiased project selection process through blind matching between students and supervisors based on merit.
+Academic project allocation system with blind student-supervisor matching and role-based access.
 
-**Key Features:**
+**Tech Stack:** ASP.NET Core MVC · SQL Server · Entity Framework Core
 
-* Role-based access for Students, Supervisors, and Admins
-* Blind matching between students and supervisors
-* Student proposal submission and tracking
-* Anonymous proposal reviewing for supervisors
-* Supervisor interest management
-* Admin management of users, research areas, and supervisor assignments
-
-**Tech Stack:** ASP.NET Core MVC, SQL Server, Entity Framework Core, ASP.NET Identity
-
-🔗 **GitHub:** [Project Approval System](https://github.com/nmedussuriya/Project-Approval-System-)
+🔗 [GitHub Repository](https://github.com/nmedussuriya/Project-Approval-System-)
 
 ---
 
-### 🔹 Child Health Development Record System — Mobile Application
+### 🔹 Child Health Development Record System
 
-A dual-role mobile application designed for Parents and Midwives to manage child health records, vaccination schedules, developmental milestones, and field-based healthcare activities.
+Mobile app for parents and midwives with AI-powered health assistance and digital child health records.
 
-**Key Features:**
+**Tech Stack:** React Native · TypeScript · Firebase · OpenAI GPT API
 
-* Role-specific dashboards for Parents and Midwives
-* AI-powered health assistant, **Dr. Riley**, using the OpenAI GPT API
-* Real-time health record synchronization using Firebase Firestore
-* Vaccination schedule generation and due-date reminders
-* Immunization history tracking
-* WHO-aligned developmental milestone tracking
-* Milestone verification and complete audit history
-
-**Tech Stack:** React Native, React, TypeScript, Firebase Firestore, OpenAI GPT API, Expo
-
-🔗 **GitHub:** [Child Health Development Record System](https://github.com/nmedussuriya/CHDR-MobileApp)
+🔗 [GitHub Repository](https://github.com/nmedussuriya/CHDR-MobileApp)
 
 ---
 
-### 🔹 CollabBoard — Collaborative Task Management Platform
+### 🔹 CollabBoard
 
-A full-stack collaborative task management platform that enables users to organize, manage, and track tasks through an interactive board.
+Full-stack collaborative task management platform with authentication, task management, and automated testing.
 
-**Key Features:**
+**Tech Stack:** React · Node.js · Express.js · MongoDB · Jest
 
-* User authentication and protected routes
-* Collaborative task management
-* Create, update, and delete tasks
-* Task assignment and status management
-* Layered backend architecture
-* Separation of Routes, Controllers, Services, Repositories, and Models
-* Backend validation and automated testing
-
-**Tech Stack:** React, Node.js, Express.js, MongoDB, JavaScript, Jest
-
-🔗 **GitHub:** [CollabBoard](YOUR_COLLABBOARD_REPOSITORY_LINK)
-
----
+🔗 [GitHub Repository](YOUR_COLLABBOARD_REPOSITORY_LINK)
 
 
 ---
