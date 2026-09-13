@@ -122,11 +122,11 @@ A full-stack collaborative task management platform that enables users to organi
 
 ---
 
-## 🔥 Contribution Streak
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=nmedussuriya&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
