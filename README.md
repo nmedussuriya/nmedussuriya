@@ -109,24 +109,15 @@ A full-stack collaborative task management platform that enables users to organi
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nmedussuriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180em" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmedussuriya&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-
-</div>
 
 ## 📊 GitHub Language Statistics
 
 <div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nmedussuriya&theme=github_dark" width="450" />
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmedussuriya&layout=compact&theme=radical&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
 </div>
-
 ---
 ## 🔥 Coding Streak
 
