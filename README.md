@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Your Nulara
 
-<!--
-**nmedussuriya/nmedussuriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Software Engineering undergraduate  
+💻 Interested in Full Stack Development  
+🌱 Currently learning React, Node.js, Express and MongoDB  
+🚀 Building projects and improving my coding skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- React
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- Node.js
+- Express.js
+- MongoDB
+- SQL
+- Git and GitHub
+
+## Projects
+
+### CollabBoard
+A collaborative task management application built with React, Node.js, Express and MongoDB.
+
+### MovieSphere
+A movie-related web application built using modern web technologies.
+
+### SyncBoard
+A Kanban-style task management application.
+
+## GitHub Goals
+
+- Build real-world projects
+- Improve problem-solving skills
+- Contribute to open-source projects
+- Learn new technologies
+
+## Connect With Me
+
+- GitHub: https://github.com/nmedussuriya
+- LinkedIn: [(https://www.linkedin.com/in/nulara-edussuriya-5103b3292/)]
