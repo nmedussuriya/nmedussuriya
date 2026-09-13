@@ -124,15 +124,6 @@ A full-stack collaborative task management platform that enables users to organi
 ---
 
 
-## 📊 GitHub Language Statistics
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmedussuriya&layout=compact&theme=radical&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</div>
-
 ---
 ## 🔥 Coding Streak
 
@@ -161,7 +152,6 @@ A full-stack collaborative task management platform that enables users to organi
 </a>
 
 </p>
----
 
 <div align="center">
 
