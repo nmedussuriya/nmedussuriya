@@ -35,47 +35,46 @@ Currently, I'm focused on improving my full-stack development skills, working on
 ---
 
 
-## 🛠️ Technologies and Tools
+## 🛠️ Tech Stack
 
 ### Frontend
 
 <p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
+<img src="https://img.shields.io/badge/CSS3-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
+<img src="https://img.shields.io/badge/JavaScript-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
+<img src="https://img.shields.io/badge/TypeScript-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
+<img src="https://img.shields.io/badge/React-0B132B?style=for-the-badge&labelColor=0B132B&color=06B6D4" />
+<img src="https://img.shields.io/badge/Next.js-0B132B?style=for-the-badge&labelColor=0B132B&color=06B6D4" />
+<img src="https://img.shields.io/badge/Vite-0B132B?style=for-the-badge&labelColor=0B132B&color=06B6D4" />
 </p>
 
 ### Backend
 
 <p align="left">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
+<img src="https://img.shields.io/badge/Express.js-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
+<img src="https://img.shields.io/badge/Java-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
+<img src="https://img.shields.io/badge/Python-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
 </p>
 
 ### Database
 
 <p align="left">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-0B132B?style=for-the-badge&labelColor=0B132B&color=06B6D4" />
+<img src="https://img.shields.io/badge/MySQL-0B132B?style=for-the-badge&labelColor=0B132B&color=06B6D4" />
+<img src="https://img.shields.io/badge/PostgreSQL-0B132B?style=for-the-badge&labelColor=0B132B&color=06B6D4" />
 </p>
 
 ### Tools
 
 <p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
+<img src="https://img.shields.io/badge/GitHub-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
+<img src="https://img.shields.io/badge/Docker-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
+<img src="https://img.shields.io/badge/Figma-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
+<img src="https://img.shields.io/badge/VS_Code-0B132B?style=for-the-badge&labelColor=0B132B&color=1D4ED8" />
 </p>
-
 ---
 
 ## 🚀 Key Projects
