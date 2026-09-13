@@ -2,9 +2,9 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:4F46E5&height=230&section=header&text=Nulara%20Edussuriya&fontSize=42&fontColor=FFFFFF&fontAlignY=38&fontFamily=JetBrains%20Mono&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFB6C1,50:FFD6A5,100:CAFFBF&height=230&section=header&text=Nulara%20Edussuriya&fontSize=42&fontColor=4A3B47&fontAlignY=38&fontFamily=Montserrat&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=900&color=A5B4FC&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Enthusiast;Software+Engineering+Undergraduate;Building+Real-World+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=21&duration=3000&pause=1000&color=8B5E83&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI+Enthusiast;Software+Engineering+Undergraduate;Building+Real-World+Applications" />
 
 </div>
 ---
