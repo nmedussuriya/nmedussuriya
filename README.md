@@ -3,8 +3,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,55:1D4ED8,100:06B6D4&height=300&section=header&text=Nulara%20Edussuriya&fontSize=68&fontColor=FFFFFF&fontAlignY=42&fontFamily=Montserrat&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=1D4ED8&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+Enthusiast;Software+Engineering+Undergraduate;Building+Real-World+Digital+Solutions" />
-
 </div>
 
 ---
