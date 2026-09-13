@@ -122,11 +122,11 @@ A full-stack collaborative task management platform that enables users to organi
 
 ---
 
-## 🐍 Contribution Journey
+## 🟩 GitHub Contribution Calendar
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+<img src="https://ghchart.rshah.org/6C63FF/nmedussuriya" alt="GitHub Contribution Calendar" />
 
 </div>
 
